@@ -6,4 +6,3 @@ if country == '中国':
 		print('你可以考驾照')
 		else:
 		print('你不可以考驾照') 
-else print('你不可以考驾照') 
